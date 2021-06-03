@@ -1,0 +1,5 @@
+add_subdirectory("dijkstra")
+add_subdirectory("binarysearch")
+add_subdirectory("lis")
+add_subdirectory("kadane")
+add_subdirectory("divisibility")
